@@ -1,0 +1,2 @@
+tar: v@version@:. name=gem-pathutil-v@version@ base=gem-pathutil-v@version@
+spec: .gear/pathutil.spec
